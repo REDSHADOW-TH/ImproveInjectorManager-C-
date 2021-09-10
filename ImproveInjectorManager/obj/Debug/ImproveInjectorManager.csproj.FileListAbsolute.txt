@@ -1,0 +1,7 @@
+C:\Users\nilph\source\repos\ImproveInjectorManager\ImproveInjectorManager\bin\Debug\ImproveInjectorManager.exe.config
+C:\Users\nilph\source\repos\ImproveInjectorManager\ImproveInjectorManager\bin\Debug\ImproveInjectorManager.exe
+C:\Users\nilph\source\repos\ImproveInjectorManager\ImproveInjectorManager\bin\Debug\ImproveInjectorManager.pdb
+C:\Users\nilph\source\repos\ImproveInjectorManager\ImproveInjectorManager\obj\Debug\ImproveInjectorManager.csprojAssemblyReference.cache
+C:\Users\nilph\source\repos\ImproveInjectorManager\ImproveInjectorManager\obj\Debug\ImproveInjectorManager.csproj.CoreCompileInputs.cache
+C:\Users\nilph\source\repos\ImproveInjectorManager\ImproveInjectorManager\obj\Debug\ImproveInjectorManager.exe
+C:\Users\nilph\source\repos\ImproveInjectorManager\ImproveInjectorManager\obj\Debug\ImproveInjectorManager.pdb
